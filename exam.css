@@ -1,0 +1,16 @@
+section.examination
+{
+float: left;
+width: 659px;
+border-right: 1px solid #eeeeee;
+}
+article
+{
+clear: both;
+overflow: auto;
+width: 100%;
+}
+hgroup
+{
+margin-top:40px;
+}
